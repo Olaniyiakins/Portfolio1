@@ -1,0 +1,41 @@
+.Footer{
+    background-color:rgb(11, 8, 8);
+    height: 200px;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    
+}
+.line-1 {
+    background-color:white;
+   height: 1px;
+   width: 450px;
+   margin-top: 30px;
+
+  }
+.line-2 {
+    background-color:white;
+   height: 1px;
+   width: 450px;
+   margin-top: 30px;
+  }
+
+  .div2{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color:white ;
+
+  }
+  .copyright{
+      color: white;
+      padding-left: 410px;
+      padding-top:10px;
+      font-style: inherit;
+  }
+  .name{
+      color: white;
+      font-style: oblique;
+  }

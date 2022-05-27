@@ -1,0 +1,43 @@
+.testimonies{
+    display: flex;
+    padding-top:10px;
+   
+  
+  
+   
+
+}
+
+.box1{
+background-color:rgb(56, 56, 176);
+height: 700px;
+width: 450px;
+padding-top: 4px;
+
+   
+}
+.recomend1{
+    color:rgb(10, 18, 9);
+    padding-left: 70px;
+    padding-top: 250px;
+    
+}
+.testbox1{
+    margin-left: 60px;
+    
+}
+.testifier1{
+    padding-inline-start: 40px;
+}
+.testim{
+    padding-top: 70px;
+    padding-left: 70px;
+    
+}
+.testname{
+    padding-left: 30px;
+}
+.test2{
+    display:flex;
+   
+}

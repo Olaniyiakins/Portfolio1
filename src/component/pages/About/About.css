@@ -1,0 +1,59 @@
+.about_body{
+    background-color: #F6F8FE;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.about1{
+   background-color: #888c95;
+   
+   
+}
+.intro{
+    
+    margin-left: 300px;
+}
+.socialabout{
+    display: flex;
+    margin-left: 170px;
+    color:blue
+  
+    
+
+}
+.icont{
+    margin: 5px;
+    display: table-cell;
+    vertical-align: middle; 
+    display: inline-block;
+   
+
+
+ 
+}
+.iconl{
+    margin: 5px;
+    display: table-cell;
+    vertical-align: middle; 
+    display: inline-block;
+   
+
+
+ 
+}
+.circle{
+    height: 25px;
+  width: 25px;
+  border: solid blue 1px;
+  border-radius: 50%;
+  margin-left: 25px;
+  
+}
+.circle1{
+    height: 25px;
+  width: 25px;
+  border: solid blue 1px;
+  border-radius: 50%;
+  margin-left: 25px;
+  
+}

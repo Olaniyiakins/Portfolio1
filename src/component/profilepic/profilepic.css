@@ -1,0 +1,38 @@
+.profile{
+    background: #D3DCF8;
+    height: 500px;
+    width: 500px;
+   
+    top: 132px;
+
+
+   
+   
+
+    
+}
+.socialprofile{
+    display: flex;
+    justify-content: center;
+    color:blue;
+    
+  
+    padding-top: 31px;
+}
+.twitter{
+    size: 20px;
+    margin-left: 20px;
+}
+
+
+.mypic{
+position: absolute;
+width: 400px;
+height: 400px;
+padding-left: 100px;
+padding-top: 41px;
+
+
+
+
+}

@@ -1,0 +1,54 @@
+h3{
+    color:blue;
+}
+h2{
+    color:blue;
+}
+h1{
+    color:darkgreen;
+    padding-top: ;
+}
+.socialbody{
+    display: flex;
+    
+    color:blue
+  
+    
+
+}
+.icont{
+    margin: 5px;
+    display: table-cell;
+    vertical-align: middle; 
+    display: inline-block;
+   
+
+
+ 
+}
+.iconl{
+    margin: 5px;
+    display: table-cell;
+    vertical-align: middle; 
+    display: inline-block;
+   
+
+
+ 
+}
+.circlebody{
+    height: 25px;
+  width: 25px;
+  border: solid blue 1px;
+  border-radius: 50%;
+  margin-left: 25px;
+  
+}
+.circle1body{
+    height: 25px;
+  width: 25px;
+  border: solid blue 1px;
+  border-radius: 50%;
+  margin-left: 25px;
+  
+}

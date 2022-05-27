@@ -1,0 +1,15 @@
+.h1-service{
+    margin-left: 100px;
+}
+.p-service{
+    margin-left: 100px;
+    padding-bottom: 60px;
+}
+.row1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 60px;
+    
+}
+

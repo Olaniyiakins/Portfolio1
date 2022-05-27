@@ -1,0 +1,51 @@
+.project-title{
+    display:flex;
+    justify-content: center;
+
+}
+.ti{
+    width: 388px;
+    height: 630px;
+    background-color: blue;
+     margin-bottom: 10px;
+    
+}
+.ti2{
+    width:793px;
+    height:300px;
+    background-color: green;
+    margin-left:10px;
+    margin-bottom: 10px
+;
+}
+.ti3{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 386px;
+    height: 310px;
+    background-color: black;
+}
+.ti6{
+    margin-left: 10px;
+    width:387px;
+    height:640px;
+    background-color: blue;
+}
+.ti5{
+    display: flex;
+    justify-content: center;
+}
+.ti7{
+    margin-bottom: 10px;
+    width: 790px;
+    height: 310px;
+    background-color: blue;
+    position: absolute;
+
+}
+.words1{
+    color: aliceblue;
+   padding-left: 150px;
+   padding-top: 100px;
+    
+}
